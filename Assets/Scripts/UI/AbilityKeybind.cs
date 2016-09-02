@@ -5,6 +5,8 @@ using System.Collections;
 public class AbilityKeybind : MonoBehaviour {
     public KeyCode keybind = KeyCode.Alpha0;
 
+    public GameObject prefab;
+
     private Button button;
     private Text keyDisplay;
 
