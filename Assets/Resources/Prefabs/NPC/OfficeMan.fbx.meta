@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: f2e4acb5b9da2ff43bd70b88e9a33291
+timeCreated: 1472646460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Civilian
+    100002: Head_bind
+    100004: L_Arm_bind
+    100006: L_Elbow_bind
+    100008: L_Eye
+    100010: L_Foot2_bind
+    100012: L_Foot3_bind
+    100014: L_Foot_bind
+    100016: L_Hand_bind
+    100018: L_Index1_bind
+    100020: L_Index1_bind 1
+    100022: L_Index2_bind
+    100024: L_Index2_bind 1
+    100026: L_Index3_bind
+    100028: L_Index3_bind 1
+    100030: L_Knee_bind
+    100032: L_Leg_bind
+    100034: L_Ling1_bind
+    100036: L_Ling2_bind
+    100038: L_Ling3_bind
+    100040: L_Middle1_bind
+    100042: L_Middle1_bind 1
+    100044: L_Middle2_bind
+    100046: L_Middle2_bind 1
+    100048: L_Middle3_bind
+    100050: L_Middle3_bind 1
+    100052: L_Pinky1_bind
+    100054: L_Pinky1_bind 1
+    100056: L_Pinky2_bind
+    100058: L_Pinky2_bind 1
+    100060: L_Pinky3_bind
+    100062: L_Pinky3_bind 1
+    100064: L_Ring1_bind
+    100066: L_Ring2_bind
+    100068: L_Ring3_bind
+    100070: L_Shoulder_bind
+    100072: L_Thumb1_bind
+    100074: L_Thumb1_bind 1
+    100076: L_Thumb2_bind
+    100078: L_Thumb2_bind 1
+    100080: L_Thumb3_bind
+    100082: L_Thumb3_bind 1
+    100084: L_Wrist_bind
+    100086: L_Wrist_bind 1
+    100088: Neck_bind
+    100090: polySurface10
+    100092: polySurface11
+    100094: polySurface12
+    100096: polySurface13
+    100098: polySurface14
+    100100: polySurface15
+    100102: polySurface16
+    100104: polySurface17
+    100106: polySurface18
+    100108: polySurface19
+    100110: polySurface2
+    100112: polySurface2 1
+    100114: polySurface22
+    100116: polySurface23
+    100118: polySurface3
+    100120: polySurface4
+    100122: polySurface5
+    100124: polySurface6
+    100126: polySurface7
+    100128: polySurface8
+    100130: polySurface9
+    100132: R_Arm_bind
+    100134: R_Elbow_bind
+    100136: R_Eye
+    100138: R_Foot2_bind
+    100140: R_Foot3_bind
+    100142: R_Foot_bind
+    100144: R_Hand_bind
+    100146: R_Knee_bind
+    100148: R_Leg_bind
+    100150: R_Shoulder_bind
+    100152: Root_bind1
+    100154: Spine1_bind
+    100156: Spine2_bind
+    100158: Spine3_bind
+    100160: Spine4_bind
+    100162: transform10
+    100164: transform11
+    100166: transform12
+    100168: transform13
+    100170: transform14
+    100172: transform15
+    100174: transform16
+    100176: transform17
+    100178: transform18
+    100180: transform19
+    100182: transform20
+    100184: transform21
+    100186: transform22
+    100188: transform23
+    100190: transform3
+    100192: transform4
+    100194: transform5
+    100196: transform6
+    100198: transform7
+    100200: transform8
+    100202: transform9
+    100204: //RootNode
+    400000: Civilian
+    400002: Head_bind
+    400004: L_Arm_bind
+    400006: L_Elbow_bind
+    400008: L_Eye
+    400010: L_Foot2_bind
+    400012: L_Foot3_bind
+    400014: L_Foot_bind
+    400016: L_Hand_bind
+    400018: L_Index1_bind
+    400020: L_Index1_bind 1
+    400022: L_Index2_bind
+    400024: L_Index2_bind 1
+    400026: L_Index3_bind
+    400028: L_Index3_bind 1
+    400030: L_Knee_bind
+    400032: L_Leg_bind
+    400034: L_Ling1_bind
+    400036: L_Ling2_bind
+    400038: L_Ling3_bind
+    400040: L_Middle1_bind
+    400042: L_Middle1_bind 1
+    400044: L_Middle2_bind
+    400046: L_Middle2_bind 1
+    400048: L_Middle3_bind
+    400050: L_Middle3_bind 1
+    400052: L_Pinky1_bind
+    400054: L_Pinky1_bind 1
+    400056: L_Pinky2_bind
+    400058: L_Pinky2_bind 1
+    400060: L_Pinky3_bind
+    400062: L_Pinky3_bind 1
+    400064: L_Ring1_bind
+    400066: L_Ring2_bind
+    400068: L_Ring3_bind
+    400070: L_Shoulder_bind
+    400072: L_Thumb1_bind
+    400074: L_Thumb1_bind 1
+    400076: L_Thumb2_bind
+    400078: L_Thumb2_bind 1
+    400080: L_Thumb3_bind
+    400082: L_Thumb3_bind 1
+    400084: L_Wrist_bind
+    400086: L_Wrist_bind 1
+    400088: Neck_bind
+    400090: polySurface10
+    400092: polySurface11
+    400094: polySurface12
+    400096: polySurface13
+    400098: polySurface14
+    400100: polySurface15
+    400102: polySurface16
+    400104: polySurface17
+    400106: polySurface18
+    400108: polySurface19
+    400110: polySurface2
+    400112: polySurface2 1
+    400114: polySurface22
+    400116: polySurface23
+    400118: polySurface3
+    400120: polySurface4
+    400122: polySurface5
+    400124: polySurface6
+    400126: polySurface7
+    400128: polySurface8
+    400130: polySurface9
+    400132: R_Arm_bind
+    400134: R_Elbow_bind
+    400136: R_Eye
+    400138: R_Foot2_bind
+    400140: R_Foot3_bind
+    400142: R_Foot_bind
+    400144: R_Hand_bind
+    400146: R_Knee_bind
+    400148: R_Leg_bind
+    400150: R_Shoulder_bind
+    400152: Root_bind1
+    400154: Spine1_bind
+    400156: Spine2_bind
+    400158: Spine3_bind
+    400160: Spine4_bind
+    400162: transform10
+    400164: transform11
+    400166: transform12
+    400168: transform13
+    400170: transform14
+    400172: transform15
+    400174: transform16
+    400176: transform17
+    400178: transform18
+    400180: transform19
+    400182: transform20
+    400184: transform21
+    400186: transform22
+    400188: transform23
+    400190: transform3
+    400192: transform4
+    400194: transform5
+    400196: transform6
+    400198: transform7
+    400200: transform8
+    400202: transform9
+    400204: //RootNode
+    2300000: L_Eye
+    2300002: R_Eye
+    3300000: L_Eye
+    3300002: R_Eye
+    4300000: R_Eye
+    4300002: L_Eye
+    4300004: polySurface2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
