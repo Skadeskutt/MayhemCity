@@ -28,6 +28,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 468068}
   - 114: {fileID: 11439488}
+  - 114: {fileID: 11486204}
   m_Layer: 0
   m_Name: Cameraman
   m_TagString: Untagged
@@ -44,6 +45,7 @@ Transform:
   m_LocalRotation: {x: 0.38268346, y: 0, z: 0, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 150, z: -150}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 45, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 468068}
   m_RootOrder: 0
@@ -56,6 +58,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400808}
   m_Father: {fileID: 0}
@@ -77,7 +80,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 10000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -122,9 +125,22 @@ MonoBehaviour:
   movementSpeed: 50
   movementSuperSpeed: 100
   mouseRotateSense: 7
-  zoomModifier: 2
+  zoomModifier: 10
   zoomMaxClamp: 50
-  zoomMinClamp: 150
+  zoomMinClamp: 1000
+--- !u!114 &11486204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 196620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c0343008edc974b947ea0164032794, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testObject: {fileID: 0}
+  abilities: {fileID: 0}
 --- !u!124 &12426698
 Behaviour:
   m_ObjectHideFlags: 1

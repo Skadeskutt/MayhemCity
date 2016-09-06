@@ -18,8 +18,8 @@ public class CameraController : MonoBehaviour {
     private Vector3 moveDirection = Vector3.zero;
     private GameObject cam;
 
-    private float zoomY = 150f;
-    private float zoomZ = -150f;
+    private float zoomY = 500f;
+    private float zoomZ = -500f;
 
     void Awake() {
         cam = gameObject.GetComponentInChildren<Camera>().gameObject;
@@ -28,6 +28,7 @@ public class CameraController : MonoBehaviour {
 	void Update() {
         moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
         moveDirection *= Input.GetKey(KeyCode.Space) ? movementSuperSpeed : movementSpeed;
+        moveDirection *= (zoomY / 100f);
         transform.Translate(moveDirection * Time.deltaTime);
 
         if(Input.GetMouseButton(1) || Input.GetMouseButton(2)) {

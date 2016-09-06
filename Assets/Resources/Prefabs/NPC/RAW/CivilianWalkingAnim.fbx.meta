@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 066817606120b3e42a8ef1663afef0ad
+timeCreated: 1473193506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Civilian
+    100002: //RootNode
+    100004: Head_bind
+    100006: L_Arm_bind
+    100008: L_Elbow_bind
+    100010: L_Eye
+    100012: L_Foot2_bind
+    100014: L_Foot3_bind
+    100016: L_Foot_bind
+    100018: L_Hand_bind
+    100020: L_Index1_bind
+    100022: L_Index1_bind 1
+    100024: L_Index2_bind
+    100026: L_Index2_bind 1
+    100028: L_Index3_bind
+    100030: L_Index3_bind 1
+    100032: L_Knee_bind
+    100034: L_Leg_bind
+    100036: L_Ling1_bind
+    100038: L_Ling2_bind
+    100040: L_Ling3_bind
+    100042: L_Middle1_bind
+    100044: L_Middle1_bind 1
+    100046: L_Middle2_bind
+    100048: L_Middle2_bind 1
+    100050: L_Middle3_bind
+    100052: L_Middle3_bind 1
+    100054: L_Pinky1_bind
+    100056: L_Pinky1_bind 1
+    100058: L_Pinky2_bind
+    100060: L_Pinky2_bind 1
+    100062: L_Pinky3_bind
+    100064: L_Pinky3_bind 1
+    100066: L_Ring1_bind
+    100068: L_Ring2_bind
+    100070: L_Ring3_bind
+    100072: L_Shoulder_bind
+    100074: L_Thumb1_bind
+    100076: L_Thumb1_bind 1
+    100078: L_Thumb2_bind
+    100080: L_Thumb2_bind 1
+    100082: L_Thumb3_bind
+    100084: L_Thumb3_bind 1
+    100086: L_Wrist_bind
+    100088: L_Wrist_bind 1
+    100090: Neck_bind
+    100092: polySurface10
+    100094: polySurface11
+    100096: polySurface12
+    100098: polySurface2
+    100100: polySurface3
+    100102: polySurface4
+    100104: polySurface5
+    100106: polySurface6
+    100108: polySurface7
+    100110: polySurface8
+    100112: polySurface9
+    100114: R_Arm_bind
+    100116: R_Elbow_bind
+    100118: R_Eye
+    100120: R_Foot2_bind
+    100122: R_Foot3_bind
+    100124: R_Foot_bind
+    100126: R_Hand_bind
+    100128: R_Knee_bind
+    100130: R_Leg_bind
+    100132: R_Shoulder_bind
+    100134: Root_bind1
+    100136: Spine1_bind
+    100138: Spine2_bind
+    100140: Spine3_bind
+    100142: Spine4_bind
+    100144: transform3
+    400000: Civilian
+    400002: //RootNode
+    400004: Head_bind
+    400006: L_Arm_bind
+    400008: L_Elbow_bind
+    400010: L_Eye
+    400012: L_Foot2_bind
+    400014: L_Foot3_bind
+    400016: L_Foot_bind
+    400018: L_Hand_bind
+    400020: L_Index1_bind
+    400022: L_Index1_bind 1
+    400024: L_Index2_bind
+    400026: L_Index2_bind 1
+    400028: L_Index3_bind
+    400030: L_Index3_bind 1
+    400032: L_Knee_bind
+    400034: L_Leg_bind
+    400036: L_Ling1_bind
+    400038: L_Ling2_bind
+    400040: L_Ling3_bind
+    400042: L_Middle1_bind
+    400044: L_Middle1_bind 1
+    400046: L_Middle2_bind
+    400048: L_Middle2_bind 1
+    400050: L_Middle3_bind
+    400052: L_Middle3_bind 1
+    400054: L_Pinky1_bind
+    400056: L_Pinky1_bind 1
+    400058: L_Pinky2_bind
+    400060: L_Pinky2_bind 1
+    400062: L_Pinky3_bind
+    400064: L_Pinky3_bind 1
+    400066: L_Ring1_bind
+    400068: L_Ring2_bind
+    400070: L_Ring3_bind
+    400072: L_Shoulder_bind
+    400074: L_Thumb1_bind
+    400076: L_Thumb1_bind 1
+    400078: L_Thumb2_bind
+    400080: L_Thumb2_bind 1
+    400082: L_Thumb3_bind
+    400084: L_Thumb3_bind 1
+    400086: L_Wrist_bind
+    400088: L_Wrist_bind 1
+    400090: Neck_bind
+    400092: polySurface10
+    400094: polySurface11
+    400096: polySurface12
+    400098: polySurface2
+    400100: polySurface3
+    400102: polySurface4
+    400104: polySurface5
+    400106: polySurface6
+    400108: polySurface7
+    400110: polySurface8
+    400112: polySurface9
+    400114: R_Arm_bind
+    400116: R_Elbow_bind
+    400118: R_Eye
+    400120: R_Foot2_bind
+    400122: R_Foot3_bind
+    400124: R_Foot_bind
+    400126: R_Hand_bind
+    400128: R_Knee_bind
+    400130: R_Leg_bind
+    400132: R_Shoulder_bind
+    400134: Root_bind1
+    400136: Spine1_bind
+    400138: Spine2_bind
+    400140: Spine3_bind
+    400142: Spine4_bind
+    400144: transform3
+    2300000: L_Eye
+    2300002: R_Eye
+    3300000: L_Eye
+    3300002: R_Eye
+    4300000: L_Eye
+    4300002: R_Eye
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: polySurface4
+    4300010: polySurface5
+    4300012: polySurface6
+    4300014: polySurface7
+    4300016: polySurface8
+    4300018: polySurface9
+    4300020: polySurface10
+    4300022: polySurface11
+    4300024: polySurface12
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface10
+    13700002: polySurface11
+    13700004: polySurface12
+    13700006: polySurface2
+    13700008: polySurface3
+    13700010: polySurface4
+    13700012: polySurface5
+    13700014: polySurface6
+    13700016: polySurface7
+    13700018: polySurface8
+    13700020: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
